@@ -24,12 +24,8 @@ app.get('/', (req, res) => {
 <div style="background-color: #41a0a0; border-radius: 25px;text-align: center;">
 <br>
 <h2>Please check the below API's🖥</h2>
-
-       // 📝 <a href="http://localhost:4000/write">API to Create the file✍</a><br>
-       // 🧾<a href="http://localhost:4000/read-retrive">API to retrive the files👉</a>
-      🧾<a href="https://day-1-nodejs-filesystem.onrender.com/write">API to retrive the files👉</a>
-   🧾<a href="https://day-1-nodejs-filesystem.onrender.com/read-retrive">API to retrive the files👉</a>
-   
+      🧾<a href="https://day-1-nodejs-filesystem.onrender.com/write">API to retrieve the files👉</a>
+   🧾<a href="https://day-1-nodejs-filesystem.onrender.com/read-retrive">API to retrieve the files👉</a>
 </div>`);
 })
 
