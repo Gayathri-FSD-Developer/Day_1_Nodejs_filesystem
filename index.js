@@ -25,9 +25,10 @@ app.get('/', (req, res) => {
 <br>
 <h2>Please check the below API's🖥</h2>
 
-       📝 <a href="http://localhost:4000/write">API to Create the file✍</a><br>
-       🧾<a href="http://localhost:4000/read-retrive">API to retrive the files👉</a>
-      
+       // 📝 <a href="http://localhost:4000/write">API to Create the file✍</a><br>
+       // 🧾<a href="http://localhost:4000/read-retrive">API to retrive the files👉</a>
+      🧾<a href="https://day-1-nodejs-filesystem.onrender.com/write">API to retrive the files👉</a>
+   🧾<a href="https://day-1-nodejs-filesystem.onrender.com/read-retrive">API to retrive the files👉</a>
    
 </div>`);
 })
