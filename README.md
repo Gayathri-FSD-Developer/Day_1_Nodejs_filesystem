@@ -14,6 +14,7 @@
   
   <h2>API Documentation📝</h2>
   <h3>Explore the API doc👉</h3><p>https://documenter.getpostman.com/view/14958136/2sA2xe5EFd</p>
-  <p>Please find the API document that in folder as well </p>
+  
+  <p>Thank You!...✨☺ </p>
   
 </div>
